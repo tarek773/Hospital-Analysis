@@ -36,8 +36,8 @@ Below is a snapshot of the final, interactive management dashboard.
 
 ****
 
-![Dashboard](Screenshot 2025-11-23 173538.png)
-
+![Dashboard Preview](dashboard.png)
+ 
 
 ---
 
